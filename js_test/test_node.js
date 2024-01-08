@@ -9,3 +9,7 @@ fs.readdir('./', (error, files) => {
     console.log(files);
 })
 
+console.log('ok');
+
+
+
