@@ -15,9 +15,9 @@ console.log("mater branch");
 
 console.log('ok');
 
-cosole.log('test githut');
+cosole.log('test github');
 
-
+console.log('test branch not up to date with origin!')
 
 
 
